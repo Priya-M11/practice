@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("hello main method");
 		System.out.println("welcome to github");
 		System.out.println("welcome to team");
-		System.out.println(*************");
+		System.out.println("*************");
 	
 	}
 
