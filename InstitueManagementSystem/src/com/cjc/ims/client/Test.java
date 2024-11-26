@@ -7,6 +7,7 @@ import com.cjc.ims.serviceimpl.Karvenagar;
 
 public class Test {
 	public static void main(String[] args) {
+		System.out.println("     ");
 		System.out.println("*******Institute Management System*******");
 		Scanner sc = new Scanner(System.in);
 		CJC c = new Karvenagar();
